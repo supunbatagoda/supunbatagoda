@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Supun Batagoda
 
-### Senior Software Engineer | Full-Stack | Backend & Cloud
+### Associate Technical Lead | Senior Full-Stack Engineer | Backend & Distributed Systems | Node.js | Laravel | AWS | Microservices | Payment Systems
 
 I’m a software engineer with **12+ years of professional experience** building
 scalable web applications, SaaS platforms, payment systems, and cloud-based
