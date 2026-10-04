@@ -6,7 +6,7 @@ I’m a software engineer with **12+ years of professional experience** building
 scalable web applications, SaaS platforms, payment systems, and cloud-based
 solutions.
 
-I enjoy working across the stack — from **backend architecture and APIs to
+I enjoy working across the stack - from **backend architecture and APIs to
 frontend applications, databases, infrastructure, and CI/CD**.
 
 ---
